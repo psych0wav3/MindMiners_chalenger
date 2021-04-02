@@ -1,6 +1,6 @@
 # Iniciando FrontEnd 
 
-FrontEnd contruido com ReactJs
+FrontEnd construido com ReactJs
 
 Primeiro precisa ter o NodeJS instalado.
 
@@ -24,7 +24,7 @@ Construido com C# como solicitado.
 
 Contruido com o maximo do principio de SOLID possivel.
 
-foram definidas 2 rotas: 
+Foram definidas 2 rotas: 
 
 Receber o arquivo e response se falha ou sucesso.
 
@@ -32,10 +32,10 @@ Receber o arquivo e response se falha ou sucesso.
 
 Lista os arquivos que ja foram feitos as mudanças, disponibilizando para download.
 
-### ``GET: /api/Upload/<nome-do-arquivo>`
+### `GET: /api/Upload/<nome-do-arquivo>`
 
 
-#importante!!
+# Importante!!
 
-Apenas lembrando que o frontend esta configurado para fazer as requisiçoes na API C# com endereço: "http://localhost:53636", sendonecessario caso a porta mude a alteração do codigo do frontend.
+Apenas lembrando que o frontend esta configurado para fazer as requisiçoes na API C# com endereço: http://localhost:53636, sendonecessario caso a porta mude a alteração do codigo do frontend.
 
